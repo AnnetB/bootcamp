@@ -1,4 +1,4 @@
-"""Convert DNA sequences to RNA."""
+"""Convert DNA sequences to RNA, return seq in same capitalization as input."""
 
 def rna(seq):
     """"Convert a DNA sequence to RNA."""
